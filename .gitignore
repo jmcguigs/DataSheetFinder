@@ -1,0 +1,8 @@
+# geckodriver
+*geckodriver*
+
+# Log file
+*.log
+
+# Project file
+*.pyproj
