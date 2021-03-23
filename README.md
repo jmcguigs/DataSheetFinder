@@ -6,7 +6,7 @@ Finds .pdf datasheets for user-specified part numbers.
 An installation of Firefox, Python3, and Selenium for Python are required.
 
 # Usage
-The script can be run by navigating to its directory and typing
+The script can be run by navigating into its directory and typing
 
 py -3 dsfinder.py
 
